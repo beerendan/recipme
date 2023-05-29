@@ -1,6 +1,6 @@
 A Group Project for CU Fullstack Programming Bootcamp.
 
-Contributors: Brendan Bowen, Jackie Tan, Jenna Lafable
+Contributors: Brendan Bowen
 
 Purpose: To allow users to view to other user-created recipes and log in to add their own to our database.
 

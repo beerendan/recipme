@@ -35,6 +35,5 @@ Requirements:
  
  -Have a quality README (with unique name, description, 1technologies used, screenshot, and link to deployed application).
  
-Deployed site link:
+Deployed site link: https://recipme-og.herokuapp.com/
 
-Screenshots to be added below:
